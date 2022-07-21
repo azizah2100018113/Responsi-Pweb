@@ -1,0 +1,30 @@
+#header
+{
+    width: 100%;
+    float: left;
+    height: cover;
+}
+
+#awal
+{
+    font-size: 35px;
+    text-align: justify;
+    color: black;
+}
+#atas
+{
+    font-size: 35px;
+    text-align: center;
+    color: black;
+
+}
+body
+{
+    background-image: url(bg1.jpg) ;
+}
+
+#link
+{
+    font-size: 30px;
+}
+
